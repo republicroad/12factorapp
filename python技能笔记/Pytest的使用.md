@@ -1,7 +1,7 @@
 # Pytest的安装
 ```python
 # 创建虚拟环境
-mkdir .venv
+python -m venv .venv
 # 激活虚拟环境，激活虚拟环境后，后续安装的包只会安装在该虚拟环境中。
 .venv\Scripts\Activate.ps1
 #在虚拟环境中执行安装pytest
